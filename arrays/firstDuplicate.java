@@ -1,4 +1,10 @@
+/*
 
+ find the first duplicate number for which the second occurrence has the minimal index.
+ For example, a = [2, 3, 3, 1, 5, 2], the output should be
+ firstDuplicate(a) = 3
+
+*/
 
 int firstDuplicate(int[] a) {
     

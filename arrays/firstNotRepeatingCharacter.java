@@ -1,4 +1,10 @@
+/*
 
+Given a string s, find and return the first instance of a non-repeating character in it. If there is no such character, return '_'.
+For s = "abacabad", the output should be
+firstNotRepeatingCharacter(s) = 'c'.
+
+*/
 
 char firstNotRepeatingCharacter(String s) {
     
